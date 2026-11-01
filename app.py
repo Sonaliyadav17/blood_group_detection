@@ -17,7 +17,12 @@ class User(db.Model):
     username = db.Column(db.String(80), unique=True, nullable=False)
     password = db.Column(db.String(200), nullable=False)
 
-model_path = os.path.join('D:\\', 'MiniP', 'model', 'vggbest_model.keras')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(
+    BASE_DIR,
+    'model',
+    'vggbest_model.keras'
+)
 model = tf.keras.models.load_model(model_path)
 
 def preprocess_image(image):

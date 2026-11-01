@@ -73,15 +73,11 @@ The dataset consists of fingerprint images labeled with corresponding blood grou
 
 ---
 
-## Contact
-
-**Tushar Shinde**
-Email: [tusharshinde2250@gmail.com](mailto:tusharshinde2250@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/tushar-shinde-262335257/](https://www.linkedin.com/in/tushar-shinde-262335257/)
-
-**Anjali Maske**
-Email: [aamaske50@gmail.com](mailto:aamaske50@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/anjali-maske/](https://www.linkedin.com/in/anjali-maske/)
+## Contributors
+1. Sonali Yadav
+2. Swastika Tomar
+3. Sneha
+4. Swati Priyambda
 
 ---
 

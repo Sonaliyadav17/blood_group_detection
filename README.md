@@ -6,11 +6,6 @@ This project presents a **non-invasive approach** to blood group prediction usin
 
 ---
 
-## Demo
-
-**Video Demo:** [https://youtu.be/BCwa5xclfk0?si=_o926diqvEMfQuql](https://youtu.be/BCwa5xclfk0?si=_o926diqvEMfQuql)
-
----
 
 ## Objectives
 
